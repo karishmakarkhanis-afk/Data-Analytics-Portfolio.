@@ -1,25 +1,17 @@
-# Data Analytics Portfolio — Karishma Karkhanis
-
-Data Analytics portfolio featuring end-to-end projects, interactive dashboards, and business insights built with SQL, Power BI, Tableau, and Advanced Excel.
-
----
-
-## Featured Project: E-Commerce Sales & Operations Analytics
+## Project 2: HR Workforce & Attrition Analytics
 
 ### Business Objective
-Analyze e-commerce transaction, customer, and fulfillment data to identify revenue drivers, customer purchasing patterns, and operational bottlenecks.
+Analyze employee retention, recruitment performance, and departmental attrition drivers to improve workforce planning, reduce turnover, and optimize talent acquisition pipelines.
 
 ### Tools & Deliverables
-* **SQL (`ECommerce - SQL Dashboard.sql`):** Data cleaning, joins, aggregations, and KPI queries for sales, customer retention, and product performance.
-* **Advanced Excel (`Ecommerce Analysis Excel.xlsx`):** Exploratory data analysis using Pivot Tables, XLOOKUP/INDEX-MATCH, and dynamic charts.
-* **Power BI (`Ecommerce-PowerBI-Dashboard.pdf`):** Interactive executive dashboard tracking revenue, profit margins, and regional trends.
-* **Tableau:** Visual storytelling dashboard highlighting customer segments and delivery performance *(dashboard export/link)*.
+* **SQL (`HR Analytics- SQL Dashboard.sql`):** Cleaned, queried, and transformed raw employee datasets to extract core workforce and recruitment metrics[cite: 13].
+* **Advanced Excel (`HR Analytics- EXCEL Dashboard.xlsx`):** Utilized pivot tables, charts, and lookup functions to build interactive HR tracking sheets and attrition reports[cite: 13].
+* **Power BI (`HR Analytics- POWER B_I Dashboard.pbix`):** Designed an interactive dashboard tracking headcount trends, departmental turnover rates, and time-to-hire (TAT)[cite: 13].
+* **Tableau (`HR Analytics- Tableau Dashboard.twbx`):** Developed visual storytelling components highlighting employee demographics and performance metrics[cite: 13].
 
 ### Key Insights & Recommendations
-* **Revenue Concentration:** Identified top-performing product categories and high-value customer segments driving the majority of sales.
-* **Operational Efficiency:** Analyzed order fulfillment timelines and regional delivery trends to highlight areas for faster turnaround.
-* **Seasonal & Payment Trends:** Tracked monthly sales peaks and preferred payment methods to support targeted promotional strategies.
-
+* **Attrition Hotspots:** Identified specific departments with higher voluntary turnover, enabling targeted retention strategies and manager engagement initiatives.
+* **Recruitment Efficiency:** Analyzed candidate drop-off stages in the hiring funnel, reducing overall time-to-fill for critical leadership and technical roles.
 ---
 
 ## Connect With Me
